@@ -2,7 +2,7 @@
 /**
  * main-entry point
  * main-a program that prints a line using puts funtion
- * return:0(success)
+ * main return:0(success)
  */
 int main(void)
 {
