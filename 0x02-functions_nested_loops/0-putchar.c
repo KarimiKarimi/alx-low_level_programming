@@ -1,9 +1,10 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - a program that prints _putchar using the putchar command
  * Return: 0 (success)
  */
-int main(void);
+int main(void)
+ 
 {
         _putchar('_');
         _putchar('p');
